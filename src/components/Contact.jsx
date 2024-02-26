@@ -5,7 +5,7 @@ function Contact() {
     <section>
       <h2>Contact</h2>
       <p>Email: austinffitz@ucf.edu</p>
-      <p>Phone: 123-456-6789</p>
+      <p>Phone: 123-456-7890</p>
     </section>
   );
 }

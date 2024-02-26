@@ -3,7 +3,7 @@ import React from 'react';
 function Header() {
   return (
     <header>
-       <h1>Austin Fitzgerald, Full-Stack Developer</h1>
+       <h1></h1>
        <nav />
     </header>
   );
